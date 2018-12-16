@@ -1,0 +1,36 @@
+Punamütsike	2
+Ämblikmees musklitega	2
+Hai	3
+Hunt	3
+Jänes	1
+Karupoeg Puhh	1
+Kass Garfield	2
+Krokodill	1
+Lammas Shaun	3
+Lehm	1
+Ajalooline Kreeka-Rooma jumalanna	1
+Egiptuse vaarao	3
+Keskaegne kroonikakirjutaja	1
+Keskaegne lossidaam rohelises sametkleidis	2
+Shrek	1
+Emo	3
+Ehitaja	2
+Timukas	1
+Kohtunik	3
+Konn kuningapoeg	2
+Kokk	1
+Koopainimene	3
+Kosmonaut	1
+Kuldkalake	2
+Kunstnik	3
+Kuradike	2
+Libahunt	1
+Vampiir	2
+Lumehelbeke	3
+Lydia Koidula	1
+Politsei	2
+Prohvet	3
+Tsirkuse direktor	1
+Tulnukas rohelise peaga	3
+Vanaema	2
+
